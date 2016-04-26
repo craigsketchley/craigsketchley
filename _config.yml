@@ -1,0 +1,16 @@
+name: My Honours Project
+description: A blog tracking the progress of my honours project
+meta_description: "A blog tracking the progress of my honours project"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 3
+baseurl: /
+domain_name: 'http://craigsketchley.me'
+# google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://craigsketchley.me'
+author:         'Craig Sketchley'
